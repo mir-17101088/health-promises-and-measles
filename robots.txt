@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campaign.thedailystar.net/health-promises-and-measles/sitemap.xml
